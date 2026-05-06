@@ -43,7 +43,6 @@ MongoDB is used because:
   "timestamp": "date"
 }
 
----
 
 ## Stage 3 — Performance Optimization
 
