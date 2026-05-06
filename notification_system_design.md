@@ -41,7 +41,8 @@ MongoDB is used because:
   "priority": "high | medium | low",
   "read": false,
   "timestamp": "date"
-}```
+}
+```
 
 ## Stage 3 — Performance Optimization
 
